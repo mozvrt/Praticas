@@ -1,0 +1,9 @@
+div{
+    background-color:#003469;
+    width: 500px;
+    height: 500px;
+    border-top-right-radius:0%;
+    border-top-left-radius:80%;
+    border-bottom-right-radius:80%;
+    border-bottom-left-radius:0%;
+}

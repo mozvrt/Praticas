@@ -1,0 +1,48 @@
+
+main{
+    width: 400px; 
+    border: 1px solid #1b1a28; 
+    background-color:#5380dc;
+}
+figure{
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+section{
+    margin-left: auto; 
+    margin-right: auto; 
+    align-content: center;
+    width: 400px;
+    border-radius: 50px; 
+    background-color: #ffffff; 
+}
+h1{
+    font-size: 25px; 
+    color:#205ec2; 
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    font-weight:300;  
+    text-align: center
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    text-transform:uppercase;
+    color:#205ec2 ;
+}
+a :hover{
+    color:  #1b1a28;
+}
+div{
+    margin: 0% 100px ;
+    border: 100px blueviolet solid;
+    background-color: solid blueviolet;
+    border-radius: 100%;
+}
